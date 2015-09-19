@@ -37,7 +37,7 @@ namespace AutoLantern
         {
             if (sender is AIHeroClient && sender.IsAlly && args.SData.Name.Equals("LanternWAlly"))
             {
-                LastLantern = args.Time;
+                LastLantern = Environment.TickCount;
                 
             }
         }

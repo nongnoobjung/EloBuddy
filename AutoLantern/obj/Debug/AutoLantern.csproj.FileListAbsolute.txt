@@ -9,3 +9,6 @@ c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern
 c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\Newtonsoft.Json.dll
 c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\obj\Debug\AutoLantern.exe
 c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\obj\Debug\AutoLantern.pdb
+C:\Users\kitcharuk\Documents\Visual Studio 2015\Projects\AutoLantern\EloBuddy\AutoLantern\bin\Debug\AutoLantern.exe.config
+C:\Users\kitcharuk\Documents\Visual Studio 2015\Projects\AutoLantern\EloBuddy\AutoLantern\obj\Debug\AutoLantern.exe
+C:\Users\kitcharuk\Documents\Visual Studio 2015\Projects\AutoLantern\EloBuddy\AutoLantern\obj\Debug\AutoLantern.pdb
