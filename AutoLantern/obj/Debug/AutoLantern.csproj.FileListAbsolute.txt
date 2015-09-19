@@ -1,0 +1,11 @@
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\AutoLantern.exe.config
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\obj\Debug\AutoLantern.csprojResolveAssemblyReference.cache
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\AutoLantern.exe
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\AutoLantern.pdb
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\EloBuddy.dll
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\EloBuddy.SDK.dll
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\SharpDX.dll
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\bin\Debug\Newtonsoft.Json.dll
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\obj\Debug\AutoLantern.exe
+c:\users\kitcharuk\documents\visual studio 2015\Projects\AutoLantern\AutoLantern\obj\Debug\AutoLantern.pdb
