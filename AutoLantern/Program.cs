@@ -42,15 +42,6 @@ namespace AutoLantern
             }
         }
 
-        /*private static void Obj_AI_Base_OnProcessSpellCast(Obj_AI_Base sender, Gapcloser.GapCloserEventArgs args)
-        {
-            if (sender is AIHeroClient && sender.IsAlly && args.SpellName.Equals("LanternWAlly"))
-            {
-                LastLantern = args.TickCount;
-
-            }
-        }*/
-
         public static SpellDataInst LanternSpell
         {
             get { return Player.Spellbook.GetSpell(LanternSlot); }
